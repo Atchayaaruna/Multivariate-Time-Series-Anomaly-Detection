@@ -1,0 +1,14 @@
+# Core Dependencies
+numpy>=1.23.0
+pandas>=1.5.0
+scipy>=1.10.0
+scikit-learn>=1.2.0
+
+# Deep Learning Framework
+tensorflow>=2.12.0,<2.13
+
+# CLI and Utilities
+argparse>=1.4.0
+
+Plotly
+Streamlit
