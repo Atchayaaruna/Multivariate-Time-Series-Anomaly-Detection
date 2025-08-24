@@ -79,5 +79,7 @@ Access the app at: http://localhost:8501
 
 
 <img width="785" height="692" alt="output " src="https://github.com/user-attachments/assets/d3d84e84-5943-4c72-8f7f-3c870011bc78" />
+DEMO VIDEO FOR DASHBOARD
 https://github.com/user-attachments/assets/0c5cfdac-0016-46c2-a90b-115f8fb30e2a
+
 
